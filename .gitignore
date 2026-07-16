@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Browser profile
+user_data/
+
+# Generated files
+data/raw/
+data/processed/
+data/images/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Browser profile
+data/browser_profile/
+data/selenium_profile/
+data/seleniumbase_profile/
+
+# Chrome cache
+user_data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+env/
+venv/
+
+# Output
+data/raw/
+data/processed/
